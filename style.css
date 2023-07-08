@@ -9,9 +9,12 @@ h1{
     background-image: url(images/top-banner.png);
     background-repeat: no-repeat;
 }
-section{
+.flexiable-container{
     display: flex;
     margin-bottom: 100px;
+}
+.orange-color{
+    color: orange;
 }
 .half-width{
     width: 50%;
