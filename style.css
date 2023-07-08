@@ -46,3 +46,17 @@ h1{
     border-radius: 5px;
     box-shadow: 10px 10px 30px 8px lightgray;
 }
+.experience-area{
+    background-image: url(images/exp-bg.png);
+    background-repeat: no-repeat;
+}
+#full-stack{
+    border-left: 8px solid tomato;
+}
+#baby-web{
+    border-left: 8px solid blue;
+}
+footer p{
+    text-align: center;
+   
+}
